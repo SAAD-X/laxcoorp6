@@ -1,4 +1,4 @@
-# laxcoorp6
+# laxcoorp3
 <h3 style="text-align: center;">Simple JAVA projects.</h3>
 <hr>
 <div>
