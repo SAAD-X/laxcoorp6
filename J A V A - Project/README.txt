@@ -1,1 +1,1 @@
-
+This is a simple java project done by me and my friend. The name of the project is "Military Database". This project is about new comer military persons who can see their divissions( which divissions they are selected for) by their basic traning scores, adedemic score, firing skills, driving skills scores.
