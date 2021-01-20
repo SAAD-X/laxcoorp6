@@ -13,6 +13,6 @@
 
 <img align="middle" width="1000px" src="https://user-images.githubusercontent.com/66327542/94661064-613e9a80-0328-11eb-9064-40f93b7d2d36.png"/>
    <hr>
-</br>
+
 </div>
   
