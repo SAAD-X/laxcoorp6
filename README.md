@@ -1,5 +1,5 @@
-# laxcoorp3
-<h3 style="text-align: center;">Simple JAVA projects.</h3>
+
+<h3 style="text-align: center;">JAVA projects (Military Database).</h3>
 <hr>
 <div>
     <p><b>Output Pictures</b></p>
