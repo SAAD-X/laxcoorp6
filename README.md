@@ -1,9 +1,8 @@
 
-<h3 style="text-align: center;">JAVA projects (Military Database).</h3>
+<h3 style="text-align: center;">JAVA projects (Military Management - console application).</h3>
 <hr>
 <div>
     <p><b>Output Pictures</b></p>
-    <p><b>Part-1</b></p>
     <hr>
 <img align="middle" width="1000px" src="https://user-images.githubusercontent.com/66327542/94659184-b62ce180-0325-11eb-9162-5a1026542e17.png"/>
 
