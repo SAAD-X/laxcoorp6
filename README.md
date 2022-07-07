@@ -1,5 +1,5 @@
 
-<h3 style="text-align: center;">JAVA projects (Military Management - console application).</h3>
+<h3 style="text-align: center;">JAVA project (Military Management - console application).</h3>
 <hr>
 <div>
     <p><b>Output Pictures</b></p>
