@@ -9,6 +9,10 @@
   </tr>
   
   <tr>
+  <th colspan="2">Group Member's</th>
+  </tr>
+  
+  <tr>
     <th>Name</th>
     <th>ID</th>
   </tr>
