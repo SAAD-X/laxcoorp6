@@ -18,8 +18,8 @@
   </tr>
   
   <tr>
-    <td><a href="https://github.com/Arifeenhamim">SULTANUL ARIFEEN HAMIM</a></td>
-    <td>20-42017-1</td>
+    <td><a href="https://github.com/Arifeenhamim">TANVIR CHOWDHURY</a></td>
+    <td>20-42699-1</td>
   </tr>
   
   <tr>
