@@ -1,7 +1,7 @@
 <p align="center">
 <table>
   <tr>
-    <th colspan="2"><h3><a herf="https://www.aiub.edu">American International University-Bangladesh(AIUB)</a></h3></h>
+    <th colspan="2"><h3><a href="https://www.aiub.edu">American International University-Bangladesh(AIUB)</a></h3></h>
   </tr>
 
   <tr>
