@@ -22,7 +22,7 @@
   </tr>
   
   <tr>
-    <td><a href="https://www.github.com/aftabrakinsad">Rakin Sad Aftab</a></td>
+    <td><a href="https://www.github.com/aftabrakinsad">RAKIN SAD AFTAB</a></td>
     <td>20-41991-1</td>
   </tr>
   
