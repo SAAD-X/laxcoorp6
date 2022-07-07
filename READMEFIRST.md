@@ -21,15 +21,5 @@
     <td><a href="https://github.com/Arifeenhamim">TANVIR CHOWDHURY</a></td>
     <td>20-42699-1</td>
   </tr>
-  
-  <tr>
-    <td><a href="https://github.com/sajidmahbub10">SAJID IBNA MAHBUB</a></td>
-    <td>20-42109-1</td>
-  </tr>
-  
-  <tr>
-    <td><a href="https://github.com/tahmid888">TAHAMIDUL HAQUE</a></td>
-    <td>20-42139-1</td>
-  </tr>
 </table>
 </P>
