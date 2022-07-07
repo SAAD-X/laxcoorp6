@@ -9,16 +9,21 @@
   </tr>
   
   <tr>
-  <th colspan="2">Course Teacher: <a href="https://cs.aiub.edu/profile/rashidul">RASHIDUL HASAN NABIL</a></th>
+    <th colspan="2">Course Teacher: <a href="https://cs.aiub.edu/profile/rashidul">RASHIDUL HASAN NABIL</a></th>
   </tr>
   
   <tr>
-  <th colspan="2">Group Member's</th>
+    <th colspan="2">Group Member's</th>
   </tr>
   
   <tr>
     <th>Name</th>
     <th>ID</th>
+  </tr>
+  
+  <tr>
+    <td><a href="https://www.github.com/aftabrakinsad">Rakin Sad Aftab</a></td>
+    <td>20-41991-1</td>
   </tr>
   
   <tr>
